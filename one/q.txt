@@ -1,0 +1,11 @@
+Simulate a basic API with in-memory storage.
+
+Task:
+
+a. On POST /notes, accept JSON like { "note": "Buy milk" } and add it to an array.
+
+b. On GET /notes, return all stored notes as JSON.
+
+c. Return 400 if JSON is invalid.
+
+give this in express
